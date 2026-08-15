@@ -1,0 +1,3 @@
+/* Global resets live in App.css; this file is intentionally minimal. */
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
